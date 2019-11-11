@@ -1,0 +1,6 @@
+.div1{
+    min-height: 300px;
+    width: 300px;
+    border: solid 3px red;
+    margin: auto;
+}
